@@ -1,0 +1,5 @@
+417430d3-7a76-4277-8faa-cfcb8e3ff1aa;admin;admin@gmail.com;rJaJ4ickJwheNbnT4+i+2IyzQ0gotDuG/AWWytTG4nA=;ADMIN;2024-12-11;true
+202ebefe-75f3-4782-bc42-cb3d4a893120;test;test@gmail.com;k36NX7tIvUlJU2zWW401xCa4DS+DDFwwjizexCKuIkQ=;CUSTOMER;2024-12-19;true
+8b985122-97c9-4a8b-b666-a15dcda667ca;test2;test2@gmail.com;fiY+t0OfAgqOYPRU/NgZP/wHHZ99VPcmAHOk7oRYwjs=;CUSTOMER;2024-12-19;true
+bde657e8-0fce-4fdc-a532-6cdf0ce41145;tester;tester@gmail.com;fN7g+e6qucB3zKNLPv3kX5t+mRvR0PjvrB5hgCuw1A0=;CUSTOMER;2024-12-22;true
+7d2b7047-c17f-44bd-8581-1f97eb162fd6;gazi;gazi@gmail.com;KbeYHLETJVewKU9rUqtL/yZIxtN4yTK5dU8ou6aZoE4=;ADMIN;2024-12-22;true
